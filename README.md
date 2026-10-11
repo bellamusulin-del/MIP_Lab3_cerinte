@@ -28,7 +28,7 @@ Să se adauge un TextBox care va permite adăugarea de cuvinte cheie după care 
 Folosind LINQ se va verifica dacă un cuvânt cheie introdus există deja în listă.
 
 Lista de cuvinte cheie adăugată va fi vizibilă într-un ComboBox adăugat la ToolStrip.
-<img width="3606" height="453" alt="image" src="https://github.com/user-attachments/assets/79b7ac08-208d-43db-aa06-dd2b41e274bf" />
+
 
 
 
